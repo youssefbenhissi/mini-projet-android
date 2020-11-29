@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Super Meals</string>
+    <string name="facebook_app_id">732486597389635</string>
+    <string name="facebook_login_protocol_name">fb732486597389635</string>
+</resources>
